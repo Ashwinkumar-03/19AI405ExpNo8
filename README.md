@@ -1,5 +1,5 @@
 # ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
-## Name: ASHWIN KUMARS
+## Name: ASHWIN KUMAR S
 ## Register Number : 212222240013
 ## Aim:
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
